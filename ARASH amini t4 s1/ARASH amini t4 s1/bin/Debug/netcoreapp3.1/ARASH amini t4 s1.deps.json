@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ARASH amini t4 s1/1.0.0": {
+        "runtime": {
+          "ARASH amini t4 s1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ARASH amini t4 s1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
