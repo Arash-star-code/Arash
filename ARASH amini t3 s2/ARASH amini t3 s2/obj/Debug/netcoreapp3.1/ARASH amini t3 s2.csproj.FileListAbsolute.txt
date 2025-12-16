@@ -1,0 +1,14 @@
+C:\Users\Mahla\source\repos\ARASH amini t3 s2\ARASH amini t3 s2\bin\Debug\netcoreapp3.1\ARASH amini t3 s2.exe
+C:\Users\Mahla\source\repos\ARASH amini t3 s2\ARASH amini t3 s2\bin\Debug\netcoreapp3.1\ARASH amini t3 s2.deps.json
+C:\Users\Mahla\source\repos\ARASH amini t3 s2\ARASH amini t3 s2\bin\Debug\netcoreapp3.1\ARASH amini t3 s2.runtimeconfig.json
+C:\Users\Mahla\source\repos\ARASH amini t3 s2\ARASH amini t3 s2\bin\Debug\netcoreapp3.1\ARASH amini t3 s2.runtimeconfig.dev.json
+C:\Users\Mahla\source\repos\ARASH amini t3 s2\ARASH amini t3 s2\bin\Debug\netcoreapp3.1\ARASH amini t3 s2.dll
+C:\Users\Mahla\source\repos\ARASH amini t3 s2\ARASH amini t3 s2\bin\Debug\netcoreapp3.1\ARASH amini t3 s2.pdb
+C:\Users\Mahla\source\repos\ARASH amini t3 s2\ARASH amini t3 s2\obj\Debug\netcoreapp3.1\ARASH amini t3 s2.csproj.AssemblyReference.cache
+C:\Users\Mahla\source\repos\ARASH amini t3 s2\ARASH amini t3 s2\obj\Debug\netcoreapp3.1\ARASH amini t3 s2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mahla\source\repos\ARASH amini t3 s2\ARASH amini t3 s2\obj\Debug\netcoreapp3.1\ARASH amini t3 s2.AssemblyInfoInputs.cache
+C:\Users\Mahla\source\repos\ARASH amini t3 s2\ARASH amini t3 s2\obj\Debug\netcoreapp3.1\ARASH amini t3 s2.AssemblyInfo.cs
+C:\Users\Mahla\source\repos\ARASH amini t3 s2\ARASH amini t3 s2\obj\Debug\netcoreapp3.1\ARASH amini t3 s2.csproj.CoreCompileInputs.cache
+C:\Users\Mahla\source\repos\ARASH amini t3 s2\ARASH amini t3 s2\obj\Debug\netcoreapp3.1\ARASH amini t3 s2.dll
+C:\Users\Mahla\source\repos\ARASH amini t3 s2\ARASH amini t3 s2\obj\Debug\netcoreapp3.1\ARASH amini t3 s2.pdb
+C:\Users\Mahla\source\repos\ARASH amini t3 s2\ARASH amini t3 s2\obj\Debug\netcoreapp3.1\ARASH amini t3 s2.genruntimeconfig.cache
