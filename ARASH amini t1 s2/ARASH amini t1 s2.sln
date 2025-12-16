@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ARASH amini t1 s2", "ARASH amini t1 s2\ARASH amini t1 s2.csproj", "{75877252-0C0D-445B-8798-F7C90E438EE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75877252-0C0D-445B-8798-F7C90E438EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75877252-0C0D-445B-8798-F7C90E438EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75877252-0C0D-445B-8798-F7C90E438EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75877252-0C0D-445B-8798-F7C90E438EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A4792BE-AC94-4B82-A31B-15AADA316E01}
+	EndGlobalSection
+EndGlobal
